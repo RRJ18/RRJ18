@@ -1,6 +1,6 @@
-## Hello
+# Hello
 
-# Nothing to see here for now. Thank You
+## Nothing to see here for now. Thank You
 
 <!--
 **RRJ18/RRJ18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
